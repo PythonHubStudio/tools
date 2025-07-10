@@ -1,6 +1,5 @@
 import os
 
-
 # ! Top-Down func definitions
 
 def simple_search(path, query, time_stamp=None, time_now=None):
